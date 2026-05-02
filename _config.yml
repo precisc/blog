@@ -16,7 +16,7 @@ timezone:
 
 title: Notas de consultoría — Dave # the main title
 
-tagline: "Estandarización, datos y automatización. — <a href='https://www.precisc.com'> style='color:#e53e3e; font-weight:700;'>← Regresar a la página principal</a>"
+tagline: "Estandarización, datos y automatización. — <a href='https://www.precisc.com'>← Regresar a la página principal</a>"
 
 description: >- # used by seo meta and the atom feed
   Metodologías sobre estandarización, automatización con n8n | Power Automate con inteligencia articial.
